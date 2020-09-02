@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="profile" type="id" />
+    <item name="movies" type="id" />
+    <item name="series" type="id" />
+    <item name="tv" type="id" />
+    <item name="dialogRecycler" type="id" />
+    <item name="view" type="id" />
+    <item name="channelName" type="id" />
+    <item name="channelLogo" type="id" />
+    <item name="textLayout" type="id" />
+    <item name="secondaryText" type="id" />
+    <item name="secondPinView" type="id" />
+    <item name="movie" type="id" />
+    <item name="item_name" type="id" />
+    <item name="action_name" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="player_view" type="id" />
+    <item name="player_bar" type="id" />
+    <item name="seekBar" type="id" />
+    <item name="name_of_channel" type="id" />
+    <item name="sound" type="id" />
+    <item name="movie_text" type="id" />
+    <item name="resume" type="id" />
+    <item name="dp" type="id" />
+    <item name="pg" type="id" />
+    <item name="fav" type="id" />
+</resources>
